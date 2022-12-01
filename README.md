@@ -1,5 +1,5 @@
 # 1-BIT OBRA DINN STYLE DITHERING SHADER
-by Tobias Risom (Medialogy, 5th Semester)
+by Tobias Risom (Medialogy AAU, 5th Semester)
 
 The **1-Bit Obra Dinn Style Dithering Shader** shader is a one-bit bi-tonal shader for Unity, inspired by Lucas Pope's "Return of the Obra Dinn". It makes use of a 4x4 dithering texture, defined and created using a dithering table, instead of a pre-existing texture. 
 
