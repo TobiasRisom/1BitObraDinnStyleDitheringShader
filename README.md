@@ -9,7 +9,7 @@ The project comes with 2 scenes:
 
 **Obra Dinn Scene** - A 3D "museum" environment where the player can walk around and look at different setups and see how they interact with the shader, such as objects in- and out of shadow.
 
-**GreyScaleDemoScene** - A simple scene showing a greyscale texture. Vizualizes the dither effect.
+**GreyScaleDemoScene** - A simple demo scene showing a greyscale texture. Vizualizes the dither effect.
 
 ### Installation
 Clone the repository to your device, and open it with Unity.
