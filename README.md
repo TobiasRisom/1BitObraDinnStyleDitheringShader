@@ -24,6 +24,6 @@ Shader based on [Binary](https://github.com/keijiro/KinoBinary) by [Keijiro](htt
 
 Shader inspired by [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/) by [Lucas Pope](https://dukope.com/).
 
-Design inspired by Pope's [Obra Dinn TIGSource Blog](https://forums.tigsource.com/index.php?topic=40832.0).
+Design inspired by Pope's [TIGSource Blog](https://forums.tigsource.com/index.php?topic=40832.0).
 
 "Perceived Brightness" equation by [Darel Rex Finley](https://alienryderflex.com/hsp.html).
